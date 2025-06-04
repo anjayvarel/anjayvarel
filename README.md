@@ -1,6 +1,7 @@
 # 💫 About Me:
-🔭 holla i'm v<br>🌱 I’m currently learning intermediate javascript<br>
+🔭 holla i'm varel<br>
 i wanna be king of frontend developer XD <br>
+Enjoy my repo <br>
 
 
 
